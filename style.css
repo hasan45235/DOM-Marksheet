@@ -1,0 +1,26 @@
+.p2{
+    padding:10px ;
+}
+tr:nth-child(odd){
+    background-color: #f5f5f5;
+}
+table{
+    border-collapse: collapse;
+    margin: 0px auto;
+    text-align: center;
+}
+.cap{
+    font-size: 30px;
+    padding: 50px 0px 30px 0px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+tr {
+    border-bottom: 1px solid rgb(148, 146, 146);
+}
+tr:hover{
+    background-color: darkolivegreen;
+    color: white;
+    transition: 0.3s;
+}
